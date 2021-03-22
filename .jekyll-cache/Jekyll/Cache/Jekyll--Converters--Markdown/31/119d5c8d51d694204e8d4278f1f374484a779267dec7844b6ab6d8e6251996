@@ -1,0 +1,48 @@
+I"û<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list see <a href="#full-list">below</a> or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/dac20_hu.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>An efficient way to bridge the gap between layout decomposition and mask optimization. Buildge the mapping relationship between decomposition and printability to find the best candidate in a reasonable time.</p>
+      <p><em>Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu yang, Xiuyuan Ma, Bei Yu</em></p>
+      <p><strong><a href="https://ieeexplore.ieee.org/document/9360853">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/tcad20_ma.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>A unified framework to combine the two independent stages, layout decomposition and mask optimization. In order to search a larger solution space, the numercial optimization engine and the discrete optimization engine are orginazed in a cooperation flow.</p>
+      <p><em>Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu</em></p>
+      <p><strong><a href="https://ieeexplore.ieee.org/document/9039708">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p> Â  </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization <br />
+  <em>Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu yang, Xiuyuan Ma, Bei Yu </em><br /><a href="https://ieeexplore.ieee.org/document/9360853">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</a></p>
+
+<p>A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization <br />
+  <em>Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu </em><br /><a href="https://ieeexplore.ieee.org/document/9039708">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</a></p>
+
+<p>Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization <br />
+  <em>Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu yang, Xiuyuan Ma, Bei Yu </em><br /><a href="https://doi.org/10.1109/DAC18072.2020.9218530">ACM/IEEE Design Automation Conference</a></p>
+
+:ET
