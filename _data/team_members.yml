@@ -1,0 +1,15 @@
+- name: Wei Zhong
+  photo: weiz.jpg
+  info: Associate professor, <a href="http://drise.dlut.edu.cn/index.htm">DUT-RU ISE</a>
+  email: zhongwei@dlut.edu.com
+  number_educ: 2
+  education1: B.E.(<a href="https://www.dlut.edu.cn/">Dalian University of Technology</a>)
+  education2: M.S. & Ph.D.(<a href="https://www.waseda.jp/top/">Waseda University</a>)
+
+- name: Unknown
+  photo: rock.jpg
+  info: Associate professor, <a href="http://drise.dlut.edu.cn/index.htm">DUT-RU ISE</a>
+  email: zhongwei@dlut.edu.com
+  number_educ: 2
+  education1: B.E.(<a href="https://www.dlut.edu.cn/">Dalian University of Technology</a>)
+  education2: M.S. & Ph.D.(<a href="https://www.waseda.jp/top/">Waseda University</a>)

@@ -1,0 +1,27 @@
+- title: "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization"
+  image: dac20_hu.png
+  description: An efficient way to bridge the gap between layout decomposition and mask optimization. Buildge the mapping relationship between decomposition and printability to find the best candidate in a reasonable time.
+  authors: Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu yang, Xiuyuan Ma, Bei Yu
+  link:
+    url: https://ieeexplore.ieee.org/document/9360853
+    display:  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+  highlight: 1
+  news2:
+
+- title: "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"
+  image: tcad20_ma.png
+  description: A unified framework to combine the two independent stages, layout decomposition and mask optimization. In order to search a larger solution space, the numercial optimization engine and the discrete optimization engine are orginazed in a cooperation flow.
+  authors: Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu
+  link:
+    url: https://ieeexplore.ieee.org/document/9039708
+    display: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+  highlight: 1
+
+- title: "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization"
+  image: tcad20_ma.png
+  description: none
+  authors: Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu yang, Xiuyuan Ma, Bei Yu
+  link:
+    url: https://doi.org/10.1109/DAC18072.2020.9218530
+    display: ACM/IEEE Design Automation Conference
+  highlight: 0

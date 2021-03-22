@@ -1,0 +1,105 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Shuxiang Hu
+  photo: sxhu.png
+  info: Master student
+  research: Design for manufacturing
+  email: vsxhoo@mail.dlut.edu.cn
+  number_educ: 0
+  education1:
+
+- name: Yazhi Yuan
+  photo: rock.jpg
+  info: Master student
+  research: Depth estimation
+  email: remi.c60000@gmail.com
+  number_educ: 0
+  education1:
+
+- name: Jie Lin
+  photo: rock.jpg
+  info: Master student
+  research: Low-light enhancement
+  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+- name: Xiaodong Zhang
+  photo: rock.jpg
+  info: Master student
+  research: Low-light enhancement
+  email: s.barquero.pierantoni@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
+
+- name: Xuefeng Zhang
+  photo: rock.jpg
+  info: Master student
+  research: Deraining
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
+
+- name: Yu'ang Zhang
+  photo: rock.jpg
+  info: Master student
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
+
+- name: Zhigang Jiang
+  photo: rock.jpg
+  info: Master student
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
+
+- name: Penghao Zhu
+  photo: rock.jpg
+  info: Master student
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
+
+- name: Changkuan Ren
+  photo: rock.jpg
+  info: Master student
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
+
+- name: Chaoyang Du
+  photo: rock.jpg
+  info: Master student
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
+
+- name: Zixiong Guo
+  photo: rock.jpg
+  info: Master student
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
+
+- name: Tao Zhang
+  photo: rock.jpg
+  info: Master student
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
+
+- name: Zhenhua Feng
+  photo: rock.jpg
+  info: Master student
+  email: evert_3aug@hotmail.com
+  number_educ: 0
+  education1:
